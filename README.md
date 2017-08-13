@@ -1,8 +1,14 @@
 # Paster
+*Basic concept Written in October 2013*
 
 *This goes out to Todd from Umatilla*
 
 *I'm sorry I yelled at your dog. Let me make it up to you https://youtu.be/x6QZn9xiuOE*
+
+## Backstory tl;dr
+Inventory Management: Turning 5x scans into 1x scan and 4x pastes (time saved increases by item #)
+
+Everything else was added 1 by 1 as I needed them
 
 ## Different functions
 You can find this if you right click on the taskbar icon under 'Instructions'
