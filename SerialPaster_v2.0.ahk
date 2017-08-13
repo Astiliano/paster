@@ -4,7 +4,7 @@ Date = 6/15/2015
 
 IfNotExist, %SystemRoot%\Paster\settings.ini
 {
-msgbox,64,Paster - First Run, Looks like this is your first time running Paster! `nBe sure to read the instructions or contact me `n(Losjava@Amazon.com) if you have any questions.
+msgbox,64,Paster - First Run, Looks like this is your first time running Paster! `nBe sure to read the instructions or contact me `n(Losjava@OldCompany.com) if you have any questions.
 
 FileCreateDir, %SystemRoot%\Paster
 IniWrite, 1, %SystemRoot%\Paster\settings.ini, settings, Beep
